@@ -28,10 +28,13 @@ Olá, Meu nome é Igor! Sou desenvolvedor e programador de softwares, o famoso D
   
   ##
   <div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Igor-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Igor-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Igor-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Igor-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+          <img align="center" alt="Igor-Az" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+      <img align="center" alt="Igor-Az" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+    
     
 
 
@@ -57,7 +60,9 @@ Olá, Meu nome é Igor! Sou desenvolvedor e programador de softwares, o famoso D
   <a href="https://www.cloudskillsboost.google/public_profiles/887229a2-88da-4d76-85a4-ba0f3035136d/badges/3314930" target="blank">
     <img width="15%" height="15%"  src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D"/>
   </a>
-  
+    
+  <br/>
+    
   <a href="https://www.cloudskillsboost.google/public_profiles/887229a2-88da-4d76-85a4-ba0f3035136d/badges/3359778" target="blank">
     <img width="15%" height="15%"  src="https://cdn.qwiklabs.com/SH1cI5cBW%2FIn5JzT%2FYwBsYDwtoiL8%2FIQynRtLER9ZXo%3D"/>
   </a>
@@ -74,15 +79,11 @@ Olá, Meu nome é Igor! Sou desenvolvedor e programador de softwares, o famoso D
 
 
   
-</div>
-    <br>
-      <br>
-  
-<div align="center">
-<img width="50%" height="50%"  src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif"/>
-</div>
-    <br>
-  
+
+
+  </br>
+      </br>
+          </br>
   <div> 
   <a href = "mailto:igorferoli019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-oliveira-69a556246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
