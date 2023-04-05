@@ -73,6 +73,9 @@ Olá, Meu nome é Igor! Sou desenvolvedor e programador de softwares, o famoso D
     <a href="https://www.cloudskillsboost.google/public_profiles/887229a2-88da-4d76-85a4-ba0f3035136d/badges/3415379" target="blank">
     <img width="15%" height="15%"  src="https://cdn.qwiklabs.com/hEIj6jHQDLEDfX3gc5gKJwLTSDsTICa28MOKU4DPdfo%3D"/>
   </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/887229a2-88da-4d76-85a4-ba0f3035136d/badges/3415956" target="blank">
+    <img width="15%" height="15%"  src="https://cdn.qwiklabs.com/Eg%2FSbOy66StYJSJgDWYLrHAMVb%2F28ZfyndLzHYtQPeA%3D"/>
+  </a>
     <br>
     <a href="https://www.gohorsecertification.com.br" target="blank">
     <img width="15%" height="15%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:600/h:600/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
