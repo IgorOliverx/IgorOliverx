@@ -60,6 +60,14 @@ Olá, Meu nome é Igor! Sou desenvolvedor e programador de softwares, o famoso D
   <a href="https://www.cloudskillsboost.google/public_profiles/887229a2-88da-4d76-85a4-ba0f3035136d/badges/3314930" target="blank">
     <img width="15%" height="15%"  src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D"/>
   </a>
+    <br>
+     <a href="https://www.cloudskillsboost.google/public_profiles/887229a2-88da-4d76-85a4-ba0f3035136d/badges/3455197" target="blank">
+    <img width="15%" height="15%"  src="https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D"/>
+  </a>
+     <a href="https://www.cloudskillsboost.google/public_profiles/887229a2-88da-4d76-85a4-ba0f3035136d/badges/3455828" target="blank">
+    <img width="15%" height="15%"  src="https://cdn.qwiklabs.com/TYsbgZP55%2Br0JRwSj7I0KVyycYhxQ9CU5zOn85CHGLM%3D"/>
+  </a>
+    
     
   <br/>
     
