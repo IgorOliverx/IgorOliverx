@@ -1,7 +1,7 @@
 # Igor Ferreira de Oliveira
 
 
-Olá, Meu nome é Igor! Sou desenvolvedor e programador de softwares, o famoso Dev. júnior! Seja Bem-Vindo ao meu Perfil!
+Olá, Meu nome é Igor! Sou desenvolvedor e programador de softwares - FULL STACK! Seja Bem-Vindo ao meu Perfil!
 
 
 - 🖥️Cursando: Desenvolvimentos de Sistemas - Senai "Luiz Varga"
