@@ -8,7 +8,7 @@ Olá, Meu nome é Igor! Sou desenvolvedor e programador de softwares - FULL STAC
 
 - 📦Contate-me no Email: igorferoli019@gmail.com 
 
-- 🕹️Adoro jogos
+
 
 <div align="center">
   <h2>Contador de visitas</h2> 
