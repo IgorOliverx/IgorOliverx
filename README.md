@@ -3,6 +3,7 @@
 
 <div align=center>
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" width=300; height=70px;/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width=300; height=70px; /> 
 </div>
  
  &nbsp;
