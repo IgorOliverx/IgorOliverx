@@ -40,17 +40,17 @@
 
 
 
-#### ​​I like
+### ​​I like
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Java Fx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 &nbsp;
 &nbsp;
-#### Hobies
+### Hobies
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 
-## Contact:
+### Contact:
 
 <div> 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=igorferoli019@@gmail.com">
